@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mr-sumit57
+- 👋 Hi, I’m Sumit Kumar
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning React   
 - 📫 Contact me on mr.sumitmg@gmail.com
